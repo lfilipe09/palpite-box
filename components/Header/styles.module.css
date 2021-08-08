@@ -1,0 +1,7 @@
+.bg {
+  @apply bg-blue-50 p-4 
+}
+
+.box{
+  @apply container mx-auto
+}
